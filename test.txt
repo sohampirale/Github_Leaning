@@ -1,2 +1,3 @@
 Hello Git!
 hey there second line
+third line ot learn stash whether it will stay or not
